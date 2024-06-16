@@ -59,9 +59,10 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
-    I am a driven rising junior majoring in Computer Science. My areas of interest include backend development, FinTech and sustainability.
-    I am excited to work on projects involving <mark>data analysis</mark> and <mark>machine learning</mark>.
-    Connect with me on [LinkedIn](https://www.linkedin.com/in/noyonika-puram-bb4b242aa)
+    
+  - I am a driven rising junior majoring in Computer Science. My areas of interest include backend development, FinTech and sustainability.
+  - I am excited to work on projects involving <mark>data analysis</mark> and <mark>machine learning</mark>.
+  - Connect with me on [LinkedIn](https://www.linkedin.com/in/noyonika-puram-bb4b242aa)
 
 content:
   - title: Projects # Title for the section
