@@ -115,6 +115,16 @@ content:
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
+navigation:
+  - title: Home
+    url: '/'
+  - title: About
+    url: '/about/'
+  - title: Projects
+    url: '/projects/'
+  - title: Contact
+    url: '/contact/'
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
