@@ -7,7 +7,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 url: "https://noyonikap-glitch.github.io"  # Main URL
-
+baseurl: "/modern-resume-theme"
 
 # Personal info
 name: Noyonika Puram
@@ -126,7 +126,7 @@ navigation:
   - title: Home
     url: '/modern-resume-theme/'
   - title: Experience
-    url: 'modern-resume-theme/experience/'
+    url: '/experience/'
   - title: Projects
     url: '/projects/'
   - title: Contact
