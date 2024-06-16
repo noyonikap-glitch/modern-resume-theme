@@ -56,19 +56,27 @@ linkedin_username: noyonika-puram-bb4b242aa
 # about_title: About Me (Use this to override about section title)
 about_profile_image: pfp.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-    
-  - I am a driven rising junior majoring in Computer Science. My areas of interest include backend development, FinTech and sustainability.
-  - I am excited to work on projects involving <mark>data analysis</mark> and <mark>machine learning</mark>.
-  - Connect with me on [LinkedIn](https://www.linkedin.com/in/noyonika-puram-bb4b242aa)
+  
+  I am a motivated rising junior majoring in Computer Science. My areas of interest include backend development, FinTech and sustainability.
+  I am excited to work on projects involving <mark>data analysis</mark> and <mark>machine learning</mark>.
+  Connect with me on [LinkedIn](https://www.linkedin.com/in/noyonika-puram-bb4b242aa)
 
 content:
+
+- title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Michigan State University
+        sub_title: B.S. Computer Science
+        caption: 2022 - 2026
+        quote: >
+          Relevant coursework:
+          Introduction to programming I
+          Introduction to programming II
+        description: | # this will include new lines to allow paragraphs
+        
+  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -89,6 +97,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+
   - title: Experience
     layout: list
     content:
@@ -101,20 +110,8 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Michigan State University
-        sub_title: B.S. Computer Science
-        caption: 2022 - 2026
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Relevant coursework:
-          Introduction to programming I
-          Introduction to programming II
-        
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
