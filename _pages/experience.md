@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Experience
-permalink: /experience/
+permalink: noyonikap-glitch.github.io/experience/
 ---
