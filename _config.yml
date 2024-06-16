@@ -126,7 +126,7 @@ navigation:
   - title: Home
     url: '/modern-resume-theme/'
   - title: Experience
-    url: '/experience/'
+    url: 'modern-resume-theme/experience/'
   - title: Projects
     url: '/projects/'
   - title: Contact
