@@ -119,7 +119,7 @@ navigation:
   - title: Home
     url: '/'
   - title: Experience
-    url: '/experience/'
+    url: '/modern-resume-template/experience/'
   - title: Projects
     url: '/projects/'
   - title: Contact
