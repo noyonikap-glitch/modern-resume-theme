@@ -111,7 +111,10 @@ content:
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Relevant coursework:
+          Introduction to programming I
+          Introduction to programming II
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -123,7 +126,7 @@ navigation:
   - title: Home
     url: '/modern-resume-theme/'
   - title: Experience
-    url: '/experience/'
+    url: 'modern-resume-theme/experience/'
   - title: Projects
     url: '/projects/'
   - title: Contact
