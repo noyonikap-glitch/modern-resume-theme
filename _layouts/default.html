@@ -7,6 +7,14 @@
 
   {%- include header.html -%}
 
+  <nav>
+    <ul>
+      {% for nav_item in site.navigation %}
+        <li><a href="{{ nav_item.url }}">{{ nav_item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
 
