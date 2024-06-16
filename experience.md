@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Experience
-permalink: /experience/
+permalink: /modern-resume-theme/experience/
 ---
