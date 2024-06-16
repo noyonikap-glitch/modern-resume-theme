@@ -1,5 +1,6 @@
 ---
 layout: default
 title: Experience
-permalink: /modern-resume-theme/experience/
+permalink: /experience/
 ---
+I can now include some of my work experiences, such as internships and volunteering.
