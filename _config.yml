@@ -117,9 +117,9 @@ content:
 
 navigation:
   - title: Home
-    url: '/'
+    url: '/modern-resume-theme/'
   - title: Experience
-    url: '/modern-resume-template/experience/'
+    url: '/experience/'
   - title: Projects
     url: '/projects/'
   - title: Contact
