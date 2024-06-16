@@ -1,5 +1,4 @@
-include:
-  - _pages
+
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
@@ -21,19 +20,19 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: true
 
 # Social links
-#twitter_username: jekyllrb
-#github_username:  jekyll
-#stackoverflow_username: "00000001"
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
 linkedin_username: noyonika-puram-bb4b242aa
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#orcid_username: 0000-0000-0000-0000
-#googlescholar_username: D847cGsAAAAJ
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 #additional_links:
@@ -142,6 +141,9 @@ sass:
 plugins:
  - jekyll-seo-tag
 
+include:
+- _pages
+  
 exclude : [
   "Gemfile",
   "Gemfile.lock",
